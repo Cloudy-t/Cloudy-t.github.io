@@ -1,6 +1,6 @@
-# Olá!
+# Hello!
 
-Este arquivo é a descrição deste meu projeto.
-Instruções durante a live da imersão.
+This project is a certificate of conclusion made from scratch to showcase what was learned during the 2 weeks of Alura's course.
 
-Nova linha de informação!
+To add:
+- links to the pages created during the course
